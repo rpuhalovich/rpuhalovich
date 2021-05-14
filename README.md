@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there!
+
+I'm a Computing and Software Systems student at the University of Melbourne. 
+
+### Current Projects
 
 <!--
 **rpuhalovich/rpuhalovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
