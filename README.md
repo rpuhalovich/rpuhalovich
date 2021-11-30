@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm a Computing and Software Systems graduate at the University of Melbourne.
+I'm a Computing and Software Systems graduate from the University of Melbourne.
 
 ### Current Projects
 
